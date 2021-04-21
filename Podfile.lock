@@ -1,0 +1,20 @@
+PODS:
+  - KochavaCoreiOS (4.5.0)
+  - KochavaTrackeriOS (4.5.0):
+    - KochavaCoreiOS (~> 4.5.0)
+
+DEPENDENCIES:
+  - KochavaTrackeriOS
+
+SPEC REPOS:
+  trunk:
+    - KochavaCoreiOS
+    - KochavaTrackeriOS
+
+SPEC CHECKSUMS:
+  KochavaCoreiOS: 70fafcb7739358232b05fb95b1acbce643ca2ce3
+  KochavaTrackeriOS: 03d1f8729eef022b06f48c836652b16303096b1c
+
+PODFILE CHECKSUM: 8d96c56f78f82266c9683c57e7e85d099def934b
+
+COCOAPODS: 1.10.1
